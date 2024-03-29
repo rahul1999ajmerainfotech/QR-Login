@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul\\Documents\\QRLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|c:\\users\\rahul\\documents\\qrlogin\\qrlogin\\controllers\\qrauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|solutionrelative:qrlogin\\controllers\\qrauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|c:\\users\\rahul\\documents\\qrlogin\\qrlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|solutionrelative:qrlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|c:\\users\\rahul\\documents\\qrlogin\\qrlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|solutionrelative:qrlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|c:\\users\\rahul\\documents\\qrlogin\\qrlogin\\qrlogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|solutionrelative:qrlogin\\qrlogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|c:\\users\\rahul\\documents\\qrlogin\\qrlogin\\models\\qrpayloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3365CDE-B05D-4441-956D-A8C42D42B71C}|QRLogin\\QRLogin.csproj|solutionrelative:qrlogin\\models\\qrpayloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QrPayloadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\Models\\QrPayloadRequest.cs",
+              "RelativeDocumentMoniker": "QRLogin\\Models\\QrPayloadRequest.cs",
+              "ToolTip": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\Models\\QrPayloadRequest.cs",
+              "RelativeToolTip": "QRLogin\\Models\\QrPayloadRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:00:19.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QRLogin",
+              "DocumentMoniker": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\QRLogin.csproj",
+              "RelativeDocumentMoniker": "QRLogin\\QRLogin.csproj",
+              "ToolTip": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\QRLogin.csproj",
+              "RelativeToolTip": "QRLogin\\QRLogin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T11:03:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "QRLogin\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\appsettings.json",
+              "RelativeToolTip": "QRLogin\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T11:00:54.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\Program.cs",
+              "RelativeDocumentMoniker": "QRLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\Program.cs",
+              "RelativeToolTip": "QRLogin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:00:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QrAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\Controllers\\QrAuthController.cs",
+              "RelativeDocumentMoniker": "QRLogin\\Controllers\\QrAuthController.cs",
+              "ToolTip": "C:\\Users\\rahul\\Documents\\QRLogin\\QRLogin\\Controllers\\QrAuthController.cs",
+              "RelativeToolTip": "QRLogin\\Controllers\\QrAuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:59:47.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
