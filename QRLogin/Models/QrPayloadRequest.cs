@@ -1,6 +1,6 @@
 ﻿namespace QRLogin.Models;
 public class QrPayloadRequest
 {
-    public required string Payload { get; set; } 
+    public string? Payload { get; set; } 
 }
 
